@@ -1,2 +1,2 @@
 # hello-Task
-This is a Readme.txt file for my first HNG task.
+This is a README.txt file for my first HNG task.
